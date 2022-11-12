@@ -1,8 +1,5 @@
-# planet_app
 
-A new Flutter project.
-<img src="
-https://user-images.githubusercontent.com/111557931/201465298-cf9057aa-295a-40b3-80e5-4d5ab4912e57.mp4" style=" height:650px; " data-target="animated-image.originalImage">
+<img src="https://user-images.githubusercontent.com/111557931/201465298-cf9057aa-295a-40b3-80e5-4d5ab4912e57.mp4" style=" height:650px; " data-target="animated-image.originalImage">
 
 <img src="https://user-images.githubusercontent.com/111557931/201465301-9bb17c82-2baa-42d9-983d-58f6d573d332.jpg" style=" height:550px; " data-target="animated-image.originalImage">  <img src="https://user-images.githubusercontent.com/111557931/201465303-2570b871-b335-4175-832b-b5afa5074ce8.jpg" style=" height:550px; " data-target="animated-image.originalImage">
 
